@@ -1,35 +1,35 @@
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Categoria1',
+    'Qual a cor do céu?',
+    'Azul',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Categoria2',
+    'Quantos continentes existem?',
+    '7',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Categoria3',
+    'Quem é o presidente do Barsilw',
+    'Lula',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Categoria 4',
+    'Qual o maior animal do mundo?',
+    'Baleia azul',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Categoria 5',
+    'Qual o maior planeta do sistema solar?',
+    'Jupiter',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Categoria 6',
+    'Qual a capital da França?',
+    'Paris',
 )
