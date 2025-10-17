@@ -15,5 +15,13 @@ cartao.innerHTML = `
             </div>
             </div>
             `
-            container.appendChild(cartao)
+    let respostaEstaInvisivel = false;
+
+    function viraCartao () {
+        respostaEstaVisivel = !respostaEstaVisivel
+        cartao.classList.toggle('active', respostaEstaVisivel)
+    }
+    container.addEventListener('clik', viraCartao)
+    
+    container.appendChild(cartao)
 }
