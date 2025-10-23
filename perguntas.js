@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Categoria3',
-    'Quem é o presidente do Barsilw',
+    'Quem é o presidente do Brasil',
     'Lula',
 )
 
