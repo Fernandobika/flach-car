@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('/img/bg-desktop.webp');
+    background: url('img/bg-desktop.webp');
     font-family: "Bai Jamjuree";
 }
 
@@ -38,7 +38,7 @@ body {
     text-align: left;
     padding: 0.5rem;
     position: absolute;
-    margin: 0.6em;
+    margin: 0.6rem;
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
@@ -51,7 +51,7 @@ body {
     font-size: 1.4vw;
 }
 
-.cartao_conteudo_pegunta p {
+.cartao_conteudo_peguntas p {
     color: var(--text-color);
     font-weight: 500;
 }
@@ -65,7 +65,7 @@ body {
     transform: rotateY(180deg);
 }
 
-.cartao_conteudo_pegunta,
+.cartao_conteudo_peguntas,
 .cartao_conteudo_resposta {
     backface-visibility: hidden;
     position: absolute;
