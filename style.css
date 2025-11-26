@@ -53,7 +53,7 @@ body {
 
 .cartao_conteudo_peguntas p {
     color: var(--text-color);
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .cartao_conteudo_resposta p {
